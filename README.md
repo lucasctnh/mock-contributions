@@ -4,9 +4,6 @@ The aim of this repository is to report in GitHub contributions coming from othe
 
 It has been automatically created using Miro Mannino's [Contributions Importer for GitHub](https://github.com/miromannino/contributions-importer-for-github)
 
-I also added an **autocontribution.bat** file. This file should be setted up to run on shell startup, that way every time you start your desktop it will automatically run the python script from Miro Mannino repo.
-- When setting up this file remember to change the paths for the python script and your mock-contributions repo.
-
 ## Notice
 
 The content of this repository contains mock code. This prevents private source code to be leaked. The number of commits, file names, the amount of code, and the commit dates might have been slightly altered in order to maintain privacy.
